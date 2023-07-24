@@ -10,5 +10,5 @@ if (antwoord == "dag") {
 }
 
 blokje.style.fontFamily = lettertype;
-blokje.style.margin = "15 px";
+blokje.style.margin = "17 px";
 blokje.innerHTML = "Hallo Dartvrienden";
